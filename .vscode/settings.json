@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Angus\\Miniconda3\\envs\\rango\\python.exe",
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+}
